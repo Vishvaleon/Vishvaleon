@@ -1,84 +1,228 @@
-<h1 align="center">Hi 👋, I'm Vishva Leon</h1>
+# Hi 👋, I'm Vishva Leon
 
 <h3 align="center">
-🚀 AI & Data Science Student | Full Stack Developer | Research Enthusiast
+🚀 AI Engineer • Full Stack Developer • Data Analytics Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Springer+Published+Researcher;LeetCode+Problem+Solver;Building+AI-Powered+Applications;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C896&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Springer+Published+Researcher;Full+Stack+Developer;Building+Real-World+AI+Applications;163%2B+LeetCode+Problems+Solved;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishvaleon&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Vishvaleon?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Vishvaleon?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Vishvaleon&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Vishvaleon?logo=github&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Vishvaleon?style=for-the-badge" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 🚀 About Me
 
-🎓 **3rd Year B.Tech AI & Data Science Student** at **SRM Madurai College of Engineering and Technology**
+🎓 B.Tech Artificial Intelligence & Data Science Student at **SRM Madurai College of Engineering and Technology**
 
-💡 Passionate about **Artificial Intelligence, Data Analytics, Full Stack Development & Research**
+🔬 Springer Published Researcher (ICIDDM 2K25)
 
-📄 **Springer Published Researcher** at **ICIDDM 2K25**
+💡 Passionate about:
 
-🏆 **TCS CodeVita Season 13 Participant**
+* Artificial Intelligence
+* Data Analytics
+* Full Stack Development
+* Geospatial AI Systems
+* Retrieval-Augmented Generation (RAG)
 
-💻 Solved **163+ LeetCode Problems**
+🏆 Highlights
 
-🚀 Built a **deployed institutional full-stack product** used by an engineering college (**250+ reports generated**)
-
-🔭 Currently Building:
-- 🤖 **RAG Pipelines with LangChain + FAISS**
-- 🌐 **AI-powered Full Stack Web Apps**
-- 📊 **Interactive Dashboards & Analytics Systems**
-- 🎙️ **Offline AI Assistants using LM Studio**
-
-🌱 Currently Learning:
-- **Machine Learning**
-- **Advanced Django**
-- **RAG Architecture**
-- **Power BI**
-- **PyTorch**
-
-⚡ Fun Fact:
-**I love building beautiful, interactive UIs and solving real-world problems using AI**
+* 📄 Springer Research Publication
+* 🏫 Built MemoDoc used across an Engineering College
+* 📈 Generated 250+ Institutional Reports
+* 💻 Solved 163+ LeetCode Problems
+* 🚀 TCS CodeVita Season 13 Participant
+* 🤖 Building AI & LLM Applications
 
 ---
 
-## 🏆 Achievements
+## 🌟 Featured Projects
 
-🏅 **Springer Published Research Paper (ICIDDM 2K25)**  
-🏅 **163+ LeetCode Problems Solved**  
-🏅 **TCS CodeVita Season 13 Participant**  
-🏅 **Selected in India Space Lab Technical Training (NASA/JAXA Affiliated)**  
-🏅 **Built a College-Wide Product used by Faculty**
+### 🛰 Smart Satellite Change Detection System
+
+AI-powered geospatial monitoring platform that:
+
+✅ Detects land-use changes
+
+✅ Supports custom AOI selection
+
+✅ Generates real-time alerts
+
+✅ GIS exports and visual analytics
+
+**Tech Stack**
+
+Vue.js • Django • PostgreSQL • PostGIS • OpenLayers • AI
+
+---
+
+### 📄 MemoDoc
+
+Institutional Event Report Generator
+
+✨ Used across SRM Madurai College
+
+✨ 250+ reports generated
+
+✨ Reduced report creation time from 2 hours to under 5 minutes
+
+**Tech Stack**
+
+React.js • Django REST Framework • MongoDB Atlas • JWT • Netlify • Render
+
+---
+
+### 🤖 RAG Pipeline
+
+Retrieval-Augmented Generation System
+
+* LangChain
+* FAISS Vector Store
+* Local LLMs (Mistral / Llama)
+* Semantic Search
+* Document Question Answering
+
+---
+
+### 📰 Misinformation Detection System
+
+Multi-modal AI System
+
+* NLP Classification
+* Transformer Models
+* OpenCV Analysis
+* Fake News Detection
+
+Accuracy: **87%+**
+
+---
+
+### 🎵 Beatnook
+
+Music Streaming Platform UI/UX
+
+🎨 Designed in Figma
+
+🎯 Accessibility Focused
+
+📱 Mobile-first Experience
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Programming Languages
+### Languages
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=django,react,vue,tailwind,bootstrap" />
 </p>
 
-### 🤖 AI / Data Science
+### Databases
+
 <p align="center">
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishvaleon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvaleon&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishvaleon&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+🥇 Springer Published Researcher
+
+🏅 TCS CodeVita Season 13 Participant
+
+🏅 IBM Cognos Analytics Internship
+
+🏅 India Space Lab Winter Technical Training
+
+🏅 Python Full Stack Development Certification
+
+🏅 UI/UX Design Certification
+
+🏅 NPTEL Data Structures & Algorithms
+
+---
+
+## 🎯 Current Focus
+
+```text
+🔭 Building AI-Powered Applications
+🌱 Learning Advanced Machine Learning
+🚀 Developing RAG Systems
+📊 Data Analytics & Power BI
+🛰 Geospatial AI Solutions
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:vishvajames1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishva17">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vishvaleon">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/zeo17/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<h3 align="center">
+⭐ Turning Ideas Into Intelligent Solutions ⭐
+</h3>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge"/>
