@@ -1,72 +1,184 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Vishva%20Leon&fontSize=58&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Full%20Stack%20%7C%20Research&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=Vishva%20Leon&fontSize=60&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Researcher&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Researching+Data+and+Intelligent+Systems;Creating+Technology+That+Solves+Real+Problems" />
+# 👋 Hi, I'm Vishva Leon
 
-</div>
+### AI & Data Science Student • Full Stack Developer • AI Engineer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Springer+Published+Researcher;Full+Stack+Developer;Data+Analytics+Enthusiast;Satellite+Monitoring+Systems;Retrieval-Augmented+Generation+(RAG);Always+Learning+New+Technologies" />
 
-# About
+<br>
 
-I'm a B.Tech Artificial Intelligence & Data Science student at SRM Madurai College of Engineering and Technology with interests in Artificial Intelligence, Full Stack Development, Data Analytics, and Geospatial Systems.
+<img src="https://komarev.com/ghpvc/?username=Vishvaleon&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-My work focuses on building practical software solutions—from AI-powered applications and retrieval systems to scalable web platforms and data-driven tools.
+<a href="https://github.com/Vishvaleon">
+<img src="https://img.shields.io/github/followers/Vishvaleon?style=for-the-badge&logo=github"/>
+</a>
 
----
-
-# Featured Projects
-
-### 📄 MemoDoc
-
-A full-stack institutional report generation platform deployed across SRM Madurai College, streamlining event documentation and reducing report preparation time from hours to minutes.
-
-**Stack:** React, Django REST Framework, MongoDB Atlas, JWT
-
----
-
-### 🛰 Smart Satellite Change Detection
-
-A geospatial monitoring system that enables users to track changes within custom Areas of Interest using satellite imagery and spatial analytics.
-
-**Stack:** Vue.js, Django, PostgreSQL, PostGIS, OpenLayers
-
----
-
-### 🤖 RAG Pipeline
-
-A document intelligence system leveraging semantic search and local large language models to provide context-aware question answering.
-
-**Stack:** LangChain, FAISS, Hugging Face, LM Studio
-
----
-
-### 📰 Misinformation Detection System
-
-A multi-modal AI solution designed to identify misleading content across text, images, and videos using natural language processing and computer vision techniques.
-
-**Stack:** Python, Transformers, OpenCV, Scikit-Learn
-
----
-
-# Technology Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,react,vue,js,html,css,tailwind,postgres,mongodb,mysql,git,github,figma,vscode&perline=7"/>
+<a href="https://github.com/Vishvaleon">
+<img src="https://img.shields.io/github/stars/Vishvaleon?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-# GitHub Analytics
+# 🚀 About Me
+
+🎓 B.Tech Artificial Intelligence & Data Science Student at **SRM Madurai College of Engineering and Technology**
+
+📄 Springer Published Researcher (ICIDDM 2K25)
+
+💻 Solved 163+ LeetCode Problems
+
+🏆 TCS CodeVita Season 13 Participant
+
+🚀 Built and deployed **MemoDoc**, used across an Engineering College with 250+ reports generated
+
+🤖 Passionate about AI Systems, Full Stack Development, Data Analytics, and Geospatial Intelligence
+
+---
+
+# ⚡ Impact
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vishvaleon&show_icons=true&theme=tokyonight&hide_border=true"/>
+| Research | Product | Coding | Experience |
+|-----------|-----------|-----------|-----------|
+| 📄 Springer Publication | 🚀 MemoDoc | 💻 163+ LeetCode | 🏢 Multiple Internships |
+| ICIDDM 2K25 | 250+ Reports Generated | 21-Day Streak | AI + Data Analytics |
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvaleon&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql"/>
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=django,react,vue,tailwind,bootstrap"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+
+</div>
+
+---
+
+# 🤖 AI & Data Stack
+
+<div align="center">
+
+| AI/ML | Analytics | Development |
+|--------|------------|-------------|
+| LangChain | Power BI | Django |
+| Hugging Face | IBM Cognos | React |
+| FAISS | Pandas | Vue.js |
+| OpenCV | NumPy | REST APIs |
+| LLMs | Matplotlib | PostgreSQL |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛰 Smart Satellite Change Detection System
+
+AI-powered geospatial monitoring platform that detects changes in custom Areas of Interest (AOI) using satellite imagery.
+
+**Tech:** Vue.js • Django • PostgreSQL • PostGIS • OpenLayers
+
+---
+
+## 📄 MemoDoc
+
+Institutional Event Report Generator deployed across SRM Madurai College.
+
+### Highlights
+
+- 250+ reports generated
+- Used by all departments
+- Reduced report generation time from hours to minutes
+- Role-based authentication
+- PDF export automation
+
+**Tech:** React • Django • MongoDB Atlas • JWT • Netlify • Render
+
+---
+
+## 🤖 RAG Pipeline
+
+Context-aware document question-answering system using vector search and local LLMs.
+
+**Tech:** LangChain • FAISS • Hugging Face • LM Studio
+
+---
+
+## 📰 Misinformation Detection System
+
+Multi-modal fake news detection system using NLP and computer vision.
+
+**Features**
+
+- Text Classification
+- Image Analysis
+- Video Verification
+- Transformer Models
+
+**Accuracy:** 87%+
+
+---
+
+## 🎵 Beatnook
+
+Music Streaming Platform UI/UX Case Study
+
+**Tools:** Figma
+
+---
+
+# 🏆 Achievements
+
+- 📄 Springer Research Publication (ICIDDM 2K25)
+- 🏆 TCS CodeVita Season 13
+- 🚀 India Space Lab Winter Technical Training
+- 📊 IBM Cognos Analytics Internship
+- 💻 Python Full Stack Development Certification
+- 🎨 UI/UX Design Certification
+- 📚 NPTEL Data Structures & Algorithms
+
+---
+
+# 🏅 GitHub Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vishvaleon&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishvaleon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvaleon&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -80,7 +192,7 @@ A multi-modal AI solution designed to identify misleading content across text, i
 
 ---
 
-# Activity Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -90,13 +202,61 @@ A multi-modal AI solution designed to identify misleading content across text, i
 
 ---
 
-# Connect
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+Machine Learning
+Generative AI
+Advanced Django
+Power BI
+RAG Architectures
+Satellite Intelligence Systems
+Cloud Deployment
+```
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="mailto:vishvajames1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/vishva17">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Vishvaleon">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/zeo17/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building Intelligent Solutions For Real-World Problems
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
+
+</div></a>
 
 <a href="https://www.linkedin.com/in/vishva17">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
