@@ -1,107 +1,139 @@
 <div align="center">
 
-# ⚡ VISHVA LEON
+# Vishva Leon
 
-### AI Engineer • Full Stack Developer • Data Analyst
+### AI & Data Science Student | Full Stack Developer | AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Systems+for+Real+World+Problems;Springer+Published+Researcher;Full+Stack+Developer;Creating+Scalable+Products;Satellite+Monitoring+%26+Geospatial+AI;Retrieval+Augmented+Generation+(RAG);Always+Learning+Always+Building" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Welcome%20To%20My%20Universe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=2563EB&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Building+AI-Powered+Applications;Researcher+%7C+Problem+Solver" />
 
 </div>
 
 ---
+
+## About Me
+
+I'm a B.Tech Artificial Intelligence & Data Science student at SRM Madurai College of Engineering and Technology, passionate about building AI-powered systems, full-stack web applications, and data-driven solutions.
+
+* Published researcher at **Springer ICIDDM 2K25**
+* Developer of **MemoDoc**, deployed across SRM Madurai College
+* Experience in **AI, Data Analytics, Django, and RAG Systems**
+* Solved **163+ LeetCode problems**
+* Participant in **TCS CodeVita Season 13**
+
+---
+
+## Current Focus
+
+* Artificial Intelligence & Machine Learning
+* Retrieval-Augmented Generation (RAG)
+* Full Stack Development with Django
+* Data Analytics & Business Intelligence
+* Geospatial AI Applications
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,vue,tailwind,bootstrap" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,figma,vscode" />
+</p>
+
+---
+
+## Featured Projects
+
+### MemoDoc
+
+Institutional Event Report Generator used across SRM Madurai College.
+
+**Tech:** React, Django REST Framework, MongoDB Atlas, JWT
+
+* 250+ reports generated
+* Reduced report preparation time from hours to minutes
+* Role-based authentication and PDF export system
+
+---
+
+### Smart Satellite Change Detection System
+
+AI-powered geospatial monitoring platform for detecting changes in custom areas of interest.
+
+**Tech:** Vue.js, Django, PostgreSQL, PostGIS, OpenLayers
+
+---
+
+### Misinformation Detection System
+
+Multi-modal fake news detection system using NLP and computer vision techniques.
+
+**Tech:** Python, Hugging Face Transformers, OpenCV, Scikit-learn
+
+---
+
+### RAG Pipeline
+
+Context-aware document question-answering system using local LLMs and vector databases.
+
+**Tech:** LangChain, FAISS, Hugging Face, LM Studio
+
+---
+
+## Experience & Achievements
+
+* Springer Research Publication (ICIDDM 2K25)
+* IBM Cognos Analytics Internship
+* India Space Lab Winter Technical Training
+* Python Full Stack Development Certification
+* UI/UX Design Certification
+* TCS CodeVita Season 13 Participant
+* NPTEL Data Structures & Algorithms
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-## 🚀 IMPACT
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishvaleon&show_icons=true&theme=default&hide_border=true"/>
 
-| Research                | Product                | Coding           | AI                 |
-| ----------------------- | ---------------------- | ---------------- | ------------------ |
-| 📄 Springer Publication | 🏫 Used Across College | 💻 163+ LeetCode | 🤖 AI Applications |
-| ICIDDM 2K25             | 250+ Reports Generated | 21 Day Streak    | RAG + NLP          |
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvaleon&layout=compact&hide_border=true"/>
 
 </div>
-
----
-
-# 🌟 About Me
-
-```yaml
-Name: Vishva Leon
-
-Role:
-  - AI Engineer
-  - Full Stack Developer
-  - Data Analytics Enthusiast
-
-Education:
-  Institution: SRM MCET
-  Degree: B.Tech AI & Data Science
-
-Interests:
-  - Artificial Intelligence
-  - Geospatial Systems
-  - Data Analytics
-  - Full Stack Development
-  - Generative AI
-
-Current Mission:
-  Building intelligent software that solves
-  real-world problems.
-```
-
----
-
-# 🛠 TECHNOLOGY UNIVERSE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,vue,js,html,css,tailwind,bootstrap,postgres,mongodb,mysql,git,github,figma,vscode&perline=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishvaleon&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⚙️ AI & DATA STACK
+## Connect With Me
 
-<div align="center">
-
-| AI           | Data       | Cloud & Dev |
-| ------------ | ---------- | ----------- |
-| LangChain    | Pandas     | Git         |
-| Hugging Face | NumPy      | GitHub      |
-| FAISS        | Power BI   | Netlify     |
-| OpenCV       | IBM Cognos | Render      |
-| LLMs         | Matplotlib | Postman     |
-
-</div>
+<p align="left">
+<a href="mailto:vishvajames1@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/vishva17">LinkedIn</a> •
+<a href="https://github.com/Vishvaleon">GitHub</a> •
+<a href="https://leetcode.com/u/zeo17/">LeetCode</a>
+</p>
 
 ---
 
-# 🚀 FEATURED PROJECTS
-
-## 🛰 Smart Satellite Change Detection
-
-```diff
-+ Custom AOI Monitoring
-+ Satellite Change Detection
-+ GIS Export
-+ Alert Generation
-+ Remote Sensing AI
-```
-
-**Stack**
-
-Vue.js • Django • PostgreSQL • PostGIS • OpenLayers
-
----
-
-## 📄 MemoDoc
-
-### Institutional Event Report Generator
+> Building intelligent solutions that solve real-world problems.
 
 ```yaml
 Users:
